@@ -1,0 +1,87 @@
+<style>
+
+	a, A:link, a:visited, a:active
+		{color: #0000aa; text-decoration: none; font-family: Tahoma, Verdana; font-size: 11px}
+
+	A:hover
+		{color: #ff0000; text-decoration: none; font-family: Tahoma, Verdana; font-size: 11px}
+
+	p, tr, td, ul, li
+		{color: #000000; font-family: Tahoma, Verdana; font-size: 11px}
+	
+	th
+		{background: #DBEAF5; color: #000000}
+
+	textarea, select, input
+		{font-family: Tahoma, Verdana, sans-serif; font-size: 12px; background-color: #FFFFFF;}
+		
+	.header1, h1
+		{color: #ffffff; background: #C68E9F; font-weight: bold; font-family: Tahoma, Verdana; font-size: 13px; margin: 0px; padding-left: 2px; height: 21px}
+
+	.header2, h2
+		{color: #000000; background: #C6D2C7; font-weight: bold; font-family: Tahoma, Verdana; font-size: 12px; margin: 0px; padding-left: 2px; height: 21px}
+		
+	.header3, h3
+		{color: #006666; background: font-weight; font-weight: bold; bold; font-family: Tahoma, Verdana; font-size: 11px; margin: 0px; padding-left: 2px; height: 21px}
+
+	.header4, h4
+		{color: #006666; background: font-weight; font-weight: bold; bold; font-family: Tahoma, Verdana; font-size: 11px;}
+		
+	.report1
+		{color: #000000; background: font-weight; font-weight: bold; bold; font-family: Arial, Verdana. Tahoma; font-size: 16px;}
+
+	.report2
+		{color: #000000; background: font-weight; font-weight: bold; bold; font-family: Arial, Verdana. Tahoma; font-size: 14px;}
+		
+	.report3
+		{color: #000000; background: font-weight; font-weight: bold; bold; font-family: Arial, Verdana. Tahoma; font-size: 12px;}
+
+   	.alert
+		{color: #D60000; font-weight: bold; font-family: Tahoma, Verdana; font-size: 12px;}
+	
+	.updates
+		{color: #0000FF; font-family: Tahoma, Verdana; font-size: 11px;}
+
+	.ctrl
+		{font-family: Tahoma, Verdana, sans-serif; font-size: 12px;}
+
+	.ctrl_disabled
+		{font-family: Tahoma, Verdana, sans-serif; font-size: 12px; color: #000000; }
+
+	.ctrl_numeric
+		{font-family: Tahoma, Verdana, sans-serif; font-size: 12px; text-align: right}
+
+	.ctrl_lbl_numeric
+		{font-family: Tahoma, Verdana, sans-serif; font-size: 12px; text-align: right; border: none; }
+
+	.btn
+		{border: 2px outset; font-family: tahoma, verdana; font-size: 12px; width: 100px; height:24px; text-align: center; cursor: hand; background-color: #EDEDE3; color: #000000; }
+	
+	.btn2 
+		{ border: 2px outset; font-family: tahoma, verdana; font-size: 10px; height:20px; text-align: center; cursor: hand; background-color: #EDEDE3; color: #000000; width: 20px; }
+	
+	.tab
+		{border: 2px outset; font-family: tahoma, verdana; font-size: 12px; width: 100px; height:24px; text-align: center; cursor: hand; background-color: #FFFFFF; color: #000000; }
+	
+	.tab_selected
+		{border: 2px outset; font-family: tahoma, verdana; font-size: 12px; width: 100px; height:24px; text-align: center; cursor: hand; background-color: #C6D2C7; color: #000000; }		
+		
+	.radio_check_btn
+		{font-size: 9px; font-family: Verdana, arial, helvetica, sans-serif; background-color: #FFFFFF;}		
+
+	.tbl_header
+		{ color: #444444; font-family: Tahoma, Verdana; font-size: 11px; font-weight: bold; background-color: #EDEDE3; white-space: nowrap; }
+
+	.tbl_header_ctrl
+		{ color: #444444; font-family: Tahoma, Verdana; font-size: 11px; font-weight: bold; background-color: #C6D2C7; white-space: nowrap; }
+		
+	.tbl_header_red
+		{ color: #D60000; font-family: Tahoma, Verdana; font-size: 11px; font-weight: bold; background-color: #EDEDE3; white-space: nowrap; }
+	
+	.td_footer 
+		{text-align: center;}
+	
+	.tr_bottomline 
+		{border-bottom-width: thin; border-bottom-style: solid; border-bottom-color: #CDCDCD;}
+
+</style>
